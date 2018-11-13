@@ -24,8 +24,7 @@ github_username:  jhunieray
 
 # Build settings
 markdown: kramdown
-theme: midnight
-remote_theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
 
