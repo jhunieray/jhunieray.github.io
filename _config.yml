@@ -16,10 +16,10 @@
 title: Jhunie Ray Suarez
 email: jhunieray.suarez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Senior PHP Developer at Local Government Unit of Loon
+  Full Stack Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://suarez.rocks" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jhunieray
+keybase_username: jhunieray
 github_username:  jhunieray
 
 # Build settings

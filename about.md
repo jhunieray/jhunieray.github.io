@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a full-time and all-around developer and have experiences in the following:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+– PHP Frameworks & CMS: **CodeIgniter**, **Yii**, **WordPress**<br>
+– Web Server: **Apache**, **LAMP**, **XAMPP**<br>
+– CSS: **Twitter Bootstrap**, **Zurb Foundation**<br>
+– DBA: **MySQL/MariaDB**, **MSSQL**<br>
+– **DNS & Cpanel**<br>
+– Javascript: **jQuery**, **AJAX**<br>
+– AWS: **CloudFront**, **EC2**, **RDS**, **Route53**, **S3**<br>
+– API: **Facebook**, **Google**, **Paypal**, **SparkPost**, **REST**<br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I always look at the best practices and the latest technology, a quick learner, and keen to learn other technology.
+
+I am currently in dev environment of 64-bit Linux Ubuntu 18.04.1 LTS (3.9 Ghz 2xCPU, 8GB RAM, 200GB HDD) as host, Apache as my web server, GIT for my version control and MySQL Workbench for Database Administration. I deployed most of my project in our local server hosted in our municipality.
 
 
-[jekyll-organization]: https://github.com/jekyll
