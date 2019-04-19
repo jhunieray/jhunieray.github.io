@@ -4,19 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I am a full-time and all-around developer and have experiences in the following:
+I am a **web application developer** and have experiences in the following:
 
-– PHP Frameworks & CMS: **CodeIgniter**, **Yii**, **WordPress**<br>
-– Web Server: **Apache**, **LAMP**, **XAMPP**<br>
-– CSS: **Twitter Bootstrap**, **Zurb Foundation**<br>
-– DBA: **MySQL/MariaDB**, **MSSQL**<br>
-– **DNS & Cpanel**<br>
-– Javascript: **jQuery**, **AJAX**<br>
-– AWS: **CloudFront**, **EC2**, **RDS**, **Route53**, **S3**<br>
-– API: **Facebook**, **Google**, **Paypal**, **SparkPost**, **REST**<br>
+Core Skills:
+✅ **HTML5/CSS3**<br>
+✅ **PHP (Codeigniter, Yii)**<br>
+✅ **MySQL**<br>
+✅ **Javascript/jQuery**<br>
+✅ Version Control: **GIT**<br>
+✅ Integration: **Pay_Pal**, **FB**, **Sparkpost**, **Custom APIs**, etc.<br>
+✅ CSS Framework: **Twitter Bootstrap**<br>
 
-I always look at the best practices and the latest technology, a quick learner, and keen to learn other technology.
-
-I am currently in dev environment of 64-bit Linux Ubuntu 18.04.1 LTS (3.9 Ghz 2xCPU, 8GB RAM, 200GB HDD) as host, Apache as my web server, GIT for my version control and MySQL Workbench for Database Administration. I deployed most of my project in our local server hosted in our municipality.
+• 3 years of experience in working as Web Application Developer in our LGU. Able to work as a solo or with a team.
+• Mainly focused on Web Application Development (PHP/MySQL) and specializes on Codeigniter Framework.
+• Can handle responsibility and accountability for project deadlines and requirements.
 
 
