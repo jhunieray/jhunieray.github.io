@@ -12,7 +12,7 @@ Core Skills:<br>
 ✅ **MySQL**<br>
 ✅ **Javascript/jQuery**<br>
 ✅ Version Control: **GIT**<br>
-✅ Integration: **Pay_Pal**, **FB**, **Sparkpost**, **Custom APIs**, etc.<br>
+✅ Integration: **Paypal API**, **Facebook API**, **Sparkpost API**, **REST APIs**, etc.<br>
 ✅ CSS Framework: **Twitter Bootstrap**<br>
 
 • 3 years of experience in working as Web Application Developer in our LGU. Able to work as a solo or with a team.<br>
