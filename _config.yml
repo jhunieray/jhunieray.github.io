@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jhunie Ray Suarez
-email: jhunieray.suarez@gmail.com
+email: jhunieray@smirnit.space
 description: >- # this means to ignore newlines until "baseurl:"
   Web Application Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://suarez.rocks" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jhunieray.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 keybase_username: jhunieray
 github_username:  jhunieray
 
