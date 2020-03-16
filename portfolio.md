@@ -9,7 +9,7 @@ Check out my latest and previous projects:<br>
 
 
 ![ELBI eServices Portal](/assets/img/portfolio/elbi.png){:class="img-responsive"}
-**ELBI** stands for Enhance Loon Business-One-Stop-Shop Initiative, and it refers to the system developed and maintained by the Local Government Unit of Loon for electronic registration, including attachments, if any, of Business Permits, specifically through the internet.<br>
+**ELBI** stands for Enhance Loon Business-One-Stop-Shop Initiative, and it refers to the system used by the Local Government Unit of Loon for electronic registration, including attachments, if any, of Business Permits, specifically through the internet.<br>
 --
 
 ![LGU Loon's ePayment Portal](/assets/img/portfolio/epayment.png){:class="img-responsive"}
