@@ -3,6 +3,7 @@ layout: post
 title:  "Host Personal Website to Github"
 date:   2018-11-15 20:39:58 +0800
 categories: jekyll update
+published: false
 ---
 I have just finished building my personal website using **Jekyll + GitHub + Cloudflare**. I must say this is really a fantastic setup! I have multiple reasons for that:
 
