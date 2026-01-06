@@ -10,20 +10,20 @@ I’m a problem-driven software engineer with 10 years of experience designing, 
 
 **Core Expertise**
 
-✅ Frontend: HTML5, CSS3, JavaScript, jQuery
-✅ Backend: PHP (Laravel, CodeIgniter), Node.js, Python (Flask)
-✅ Databases: MySQL
-✅ Blockchain & Web3: Smart Contracts, TON Blockchain
-✅ APIs & Integrations: PayPal API, Facebook API, SparkPost API, RESTful APIs
-✅ Styling & UI: Bootstrap, Tailwind CSS
-✅ Version Control: Git
+✅ Frontend: HTML5, CSS3, JavaScript, jQuery<br>
+✅ Backend: PHP (Laravel, CodeIgniter), Node.js, Python (Flask)<br>
+✅ Databases: MySQL<br>
+✅ Blockchain & Web3: Smart Contracts, TON Blockchain<br>
+✅ APIs & Integrations: PayPal API, Facebook API, SparkPost API, RESTful APIs<br>
+✅ Styling & UI: Bootstrap, Tailwind CSS<br>
+✅ Version Control: Git<br>
 
 **Professional Strengths**
 
-✅ Strong background in end-to-end web application architecture
-✅ Specializes in scalable PHP, Node.js, and Flask systems
-✅ Experienced in third-party API integration and system interoperability
-✅ Delivers solutions with a strong sense of ownership, accountability, and deadlines
-✅ Comfortable working solo or collaboratively in fast-paced environments
+✅ Strong background in end-to-end web application architecture<br>
+✅ Specializes in scalable PHP, Node.js, and Flask systems<br>
+✅ Experienced in third-party API integration and system interoperability<br>
+✅ Delivers solutions with a strong sense of ownership, accountability, and deadlines<br>
+✅ Comfortable working solo or collaboratively in fast-paced environments<br>
 
 I don’t just build applications—I analyze problems, design solutions, and deliver systems that work at scale.
