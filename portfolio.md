@@ -17,6 +17,11 @@ Check out some of my previous projects:<br>
 [https://app.treemediaapp.com/](https://app.treemediaapp.com/){:target="_blank"}<br>
 --
 
+![SpaseMail](/assets/img/portfolio/spasemail.png){:class="img-responsive"}<br>
+**SpaseMail** - This project is a high-performance Node.js backend application designed to handle large-scale scheduled email campaigns. It uses a job-based and worker-driven architecture to efficiently process and distribute workloads, ensuring reliable execution and consistent throughput. Built with scalability and stability in mind, the system is capable of handling over 100,000 emails per hour, making it suitable for enterprise-level email automation, bulk messaging, and high-volume campaign management.
+[https://github.com/jhunieray/spasemail/](https://github.com/jhunieray/spasemail/){:target="_blank"}<br>
+--
+
 ![Outlook Account Automation Tool](/assets/img/portfolio/outlook-creator.png){:class="img-responsive"}<br>
 **Outlook Account Automation Tool** - Developed a Puppeteer-based automation system for simulating Outlook account registration workflows. The project integrates SMS OTP handling, CAPTCHA-solving services, proxy and user-agent rotation, cookie injection, and post-creation interaction to emulate human behavior and reduce automated detection. Designed with configurable headless and non-headless execution for testing, research, and browser automation experimentation.
 [https://github.com/jhunieray/outlook-account-creator-bf](https://github.com/jhunieray/outlook-account-creator-bf){:target="_blank"}<br>
