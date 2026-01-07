@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Check out my latest projects:<br>
+Check out some of my previous projects:<br>
 --
 
 ![Mumara Auto Scheduler](/assets/img/portfolio/mumara.png){:class="img-responsive"}<br>
